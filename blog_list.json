@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Finding Beauty in Life's Simple Moments",
+        "description": "Life is a tapestry of moments, woven together by our daily experiences and choices...",
+        "date": "February 2, 2025",
+        "preview": "In our fast-paced world, it's easy to get caught up in the rush of deadlines and responsibilities, forgetting to pause and appreciate the simple beauty that surrounds us..."
+    },
+    {
+        "id": 2,
+        "title": "The Art of Mindful Living",
+        "description": "Mindfulness is more than a practice; it's a way of life...",
+        "date": "February 1, 2025",
+        "preview": "In today's fast-paced digital age, finding moments of peace and clarity can seem like an impossible task..."
+    },
+    {
+        "id": 3,
+        "title": "Embracing Change in Modern Times",
+        "description": "Change is the only constant in life...",
+        "date": "January 30, 2025",
+        "preview": "As we navigate through an ever-evolving world, our ability to adapt and embrace change becomes increasingly important..."
+    }
+]
